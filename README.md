@@ -5,4 +5,4 @@ This repository contains research and analysis conducted for the thesis on stell
 
 ![Asteroid Occultation](https://github.com/felpudososamente/Triton/blob/main/Triton/Resultados/CurvasDeLuz/CalarAltoVIS.png)
 
-![Asteroid Occultation](https://github.com/felpudososamente/Triton/blob/main/Triton/Resultados/CurvasDeLuz/CalarAltoVIS.png)
+![Asteroid Occultation](https://github.com/felpudososamente/Triton/blob/main/Triton/Resultados)/CuerdaTritón.png)
